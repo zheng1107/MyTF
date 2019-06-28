@@ -1,0 +1,6 @@
+framework module Pods_Last {
+  umbrella header "Pods-Last-umbrella.h"
+
+  export *
+  module * { export * }
+}
